@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Temperature Converter</string>
+    <string name="inputHint">Input a temperature value</string>
+    <string name="action_settings">Change Theme</string>
+    <string name="calcButton">CALCULATE</string>
+    <string name="closeButton">CLOSE APPLICATION</string>
+    <string name="celciusRadio">Celsius2Fahrenheit</string>
+    <string name="farenheitRadio">Fahrenheit2Celsius</string>
+    <string name="resultString">Result:</string>
+    <string name="alertTitle">This will end the activity</string>
+    <string name="alertPositiveButton">I agree</string>
+    <string name="alertNegativeButton">No, no</string>
+    <string name="settings_title">Theme Selection</string>
+	<string name="farenResult">Result in F = </string>
+	<string name="celsiusResult">Result in C = </string>
+	<string name="chooseConversion">Please choose a type of conversion</string>
+	<string name="invalidValue">Insert a valid value</string>
+	<string name="continueRunning">Application will continue</string>
+</resources>

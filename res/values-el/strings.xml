@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Μετατροπή Θερμοκρασίας</string>
+    <string name="inputHint">Εισάγετε μια τιμή</string>
+    <string name="action_settings">Αλλαγή Εμφάνισης</string>
+    <string name="calcButton">Μετατροπή</string>
+    <string name="closeButton">Έξοδος</string>
+    <string name="celciusRadio">Κελσίου σε Φαρενάιτ</string>
+    <string name="farenheitRadio">Φαρενάιτ σε Κελσίου</string>
+    <string name="resultString">Αποτέλεσμα:</string>
+    <string name="alertTitle">Η δραστηριότητα θα τερματιστεί.</string>
+    <string name="alertPositiveButton">Συμφωνώ</string>
+    <string name="alertNegativeButton">Όχι, όχι</string>
+    <string name="settings_title">Επιλογή Εμφάνισης</string>
+    <string name="farenResult">Απότέλεσμα σε F = </string>
+	<string name="celsiusResult">Αποτέλεσμα σε C = </string>
+	<string name="chooseConversion">Επιλέξτε τύπο μετατροπής</string>
+	<string name="invalidValue">Εισάγετε μια έγκυρη τιμή</string>
+	<string name="continueRunning">Η εφαρμογή θα συνεχιστεί</string>
+</resources>
